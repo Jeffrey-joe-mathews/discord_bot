@@ -1,4 +1,4 @@
-# adding from git nonexistential
+# adding from git rn ykwim
 
 import discord
 from discord.ext import commands
